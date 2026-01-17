@@ -1,6 +1,6 @@
 Project Overview
 
-Etryk AI is an AI-based Digital Human project designed to automate repetitive and operational tasks using emotionally intelligent artificial intelligence.
+HelixAIis an AI-based Digital Human project designed to automate repetitive and operational tasks using emotionally intelligent artificial intelligence.
 The project focuses on building a human-like AI assistant capable of understanding context, interacting naturally, and executing routine workflows more efficiently than traditional manual processes.
 This project demonstrates how AI + emotional intelligence + digital human concepts can be combined to reduce human workload and improve productivity in real-world environments.
 
